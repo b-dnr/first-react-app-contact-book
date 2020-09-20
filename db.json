@@ -1,0 +1,11 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "Nurila",
+      "surname": "Erkinbekova",
+      "phone": "706200300",
+      "email": "nurila@gmail.com"
+    }
+  ]
+}
